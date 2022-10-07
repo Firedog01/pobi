@@ -1,0 +1,127 @@
+[
+{
+  "directory": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/program",
+  "command": "/usr/bin/g++   -I/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/program/include -I/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Program.dir/src/main.cpp.o -c /home/student/CLionProjects/Wypozyczalnia_pojazdow/project/program/src/main.cpp",
+  "file": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/program/src/main.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/src/model/Equipment.cpp.o -c /home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/model/Equipment.cpp",
+  "file": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/model/Equipment.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/src/model/Rent.cpp.o -c /home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/model/Rent.cpp",
+  "file": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/model/Rent.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/src/model/Client.cpp.o -c /home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/model/Client.cpp",
+  "file": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/model/Client.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/src/model/Address.cpp.o -c /home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/model/Address.cpp",
+  "file": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/model/Address.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/src/repositories/Repository.cpp.o -c /home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/repositories/Repository.cpp",
+  "file": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/repositories/Repository.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/src/managers/EquipmentManager.cpp.o -c /home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/managers/EquipmentManager.cpp",
+  "file": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/managers/EquipmentManager.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/src/managers/RentManager.cpp.o -c /home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/managers/RentManager.cpp",
+  "file": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/managers/RentManager.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/src/managers/ClientManager.cpp.o -c /home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/managers/ClientManager.cpp",
+  "file": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/managers/ClientManager.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/test/master.cpp.o -c /home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/test/master.cpp",
+  "file": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/test/master.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/src/model/Lens.cpp.o -c /home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/model/Lens.cpp",
+  "file": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/model/Lens.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/src/model/Lighting.cpp.o -c /home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/model/Lighting.cpp",
+  "file": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/model/Lighting.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/src/model/Microphone.cpp.o -c /home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/model/Microphone.cpp",
+  "file": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/model/Microphone.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/src/model/Camera.cpp.o -c /home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/model/Camera.cpp",
+  "file": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/model/Camera.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/src/model/Trivet.cpp.o -c /home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/model/Trivet.cpp",
+  "file": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/model/Trivet.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/src/managers/LogicContainer.cpp.o -c /home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/managers/LogicContainer.cpp",
+  "file": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/managers/LogicContainer.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/LibraryTest.dir/test/master.cpp.o -c /home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/test/master.cpp",
+  "file": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/test/master.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/LibraryTest.dir/test/ClientTest.cpp.o -c /home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/test/ClientTest.cpp",
+  "file": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/test/ClientTest.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/LibraryTest.dir/test/EquipmentTest.cpp.o -c /home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/test/EquipmentTest.cpp",
+  "file": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/test/EquipmentTest.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/LibraryTest.dir/test/RentTest.cpp.o -c /home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/test/RentTest.cpp",
+  "file": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/test/RentTest.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/LibraryTest.dir/test/AddressTest.cpp.o -c /home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/test/AddressTest.cpp",
+  "file": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/test/AddressTest.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/LibraryTest.dir/test/RepositoryTest.cpp.o -c /home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/test/RepositoryTest.cpp",
+  "file": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/test/RepositoryTest.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/LibraryTest.dir/test/ClientManagerTest.cpp.o -c /home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/test/ClientManagerTest.cpp",
+  "file": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/test/ClientManagerTest.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/LibraryTest.dir/test/RentManagerTest.cpp.o -c /home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/test/RentManagerTest.cpp",
+  "file": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/test/RentManagerTest.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/LibraryTest.dir/test/EquipmentManagerTest.cpp.o -c /home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/test/EquipmentManagerTest.cpp",
+  "file": "/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/test/EquipmentManagerTest.cpp"
+}
+]

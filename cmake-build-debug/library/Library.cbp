@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Library"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\library\;CMake Files\program\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Library">
+				<Option output="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library/libLibrary.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/include"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 Library"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Library/fast">
+				<Option output="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library/libLibrary.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/include"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 Library/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LibraryTest">
+				<Option output="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library/LibraryTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/include"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 LibraryTest"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LibraryTest/fast">
+				<Option output="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library/LibraryTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/include"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 LibraryTest/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="check">
+				<Option working_dir="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 check"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/include/managers/LogicContainer.h">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/managers/ClientManager.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/managers/EquipmentManager.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/managers/LogicContainer.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/managers/RentManager.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/model/Address.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/model/Camera.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/model/Client.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/model/Equipment.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/model/Lens.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/model/Lighting.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/model/Microphone.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/model/Rent.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/model/Trivet.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/src/repositories/Repository.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/test/AddressTest.cpp">
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/test/ClientManagerTest.cpp">
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/test/ClientTest.cpp">
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/test/EquipmentManagerTest.cpp">
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/test/EquipmentTest.cpp">
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/test/RentManagerTest.cpp">
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/test/RentTest.cpp">
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/test/RepositoryTest.cpp">
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/test/master.cpp">
+			<Option target="Library"/>
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/library/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\library\"/>
+		</Unit>
+		<Unit filename="/home/student/CLionProjects/Wypozyczalnia_pojazdow/project/program/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\program\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
